@@ -1,0 +1,28 @@
+{
+  "name": "davis-weather",
+  "version": "0.5.0",
+  "description": "A Node.js module for querying Davis Advantage Pro 2 consoles with Davis WeatherLink IP that are connected to the network.",
+  "main": "lib/davis-weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfonze/davis-weather.git"
+  },
+  "keywords": [
+    "Davis",
+    "Weather",
+    "Node.js",
+    "Node"
+  ],
+  "author": "Carlos A. Fonseca <cfonze@gmail.com> (https://github.com/cfonze)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.11.2"
+  },  
+  "bugs": {
+    "url": "https://github.com/cfonze/davis-weather/issues"
+  },
+  "homepage": "https://github.com/cfonze/davis-weather#readme"
+}
